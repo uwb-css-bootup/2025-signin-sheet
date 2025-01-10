@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: hmarr/auto-approve-action@v4
         with: 
-          review-message: "@all-contributors add @${{ github.event.pull_request.user.login }} for checkin to UWB-CSS-BOOTUP"
+          review-message: "@${{ github.event.pull_request.user.login }} checkin accepted to UWB-CSS-BOOTUP"
   merging:
     needs: approval
     runs-on: ubuntu-latest

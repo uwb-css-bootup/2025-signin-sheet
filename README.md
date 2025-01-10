@@ -1,4 +1,14 @@
-# test-repo
+# Jan 2025 Git / Github CSS Bootup 
 
-This is a test repo, for testing repo permissions with github actions workflow
-Adding a automerge label automatically  merges a PR
+
+
+## Sign in
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
